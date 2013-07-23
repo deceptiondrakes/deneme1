@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello everyone dudes
-=======
-hello everyone yeah
->>>>>>> bbae4f9b88a7ad3e94637c01f245bc9780afd97a
+hello everyone hey
